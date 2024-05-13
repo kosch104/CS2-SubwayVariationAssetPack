@@ -10,8 +10,8 @@ This Pack adds 4 single subway train variations in different lengths.
 - Subway Train (4 Segment) (cap. 540)
 - Subway Train (5 Segment) (cap. 690)
 - Subway Train (6 Segment) (cap. 840)</LongDescription>
-  <Thumbnail Value="Properties/Train.jpg" />
-  <Screenshot Value="Properties/Train.jpg" />
+  <Thumbnail Value="Properties/Thumbnail.jpg" />
+  <Screenshot Value="Properties/Thumbnail.jpg" />
   <Tag Value="Code Mod" />
   <ForumLink Value="" />
   <ModVersion Value="1.0.0" />
