@@ -1,24 +1,22 @@
 <Publish>
   <ModId Value="80789" />
-  <DisplayName Value="Train Variation Asset Pack" />
-  <ShortDescription Value="This Pack adds 6 train variations, consisting of different lengths" />
-  <LongDescription>## Train Variation Asset Pack
-This Pack adds 6 train variations in different lenghts, including a double train.
+  <DisplayName Value="Subway Variation Asset Pack" />
+  <ShortDescription Value="This Pack adds 4 subway variations, consisting of different lengths" />
+  <LongDescription>## Subway Variation Asset Pack
+This Pack adds 4 single subway train variations in different lenghts.
 
 ## New Assets
-- Passenger Train (3 Segment) (cap. 240)
-- Passenger Train (4 Segment) (cap. 360)
-- Passenger Train (5 Segment) (cap. 480)
-- Passenger Train (6 Segment) (cap. 600)
-- Passenger Train (7 Segment) (cap. 720)
-- Passenger Train (Double) (cap. 480)</LongDescription>
+- Subway Train (3 Segment) (cap. 390)
+- Subway Train (4 Segment) (cap. 540)
+- Subway Train (5 Segment) (cap. 690)
+- Subway Train (6 Segment) (cap. 840)</LongDescription>
   <Thumbnail Value="Properties/Train.jpg" />
   <Screenshot Value="Properties/Train.jpg" />
   <Tag Value="Code Mod" />
   <ForumLink Value="" />
-  <ModVersion Value="1.0.1" />
+  <ModVersion Value="1.0.0" />
   <GameVersion Value="1.1.*" />
   <Dependency Id="78903" />
-  <ChangeLog>- Fix Thumbnails</ChangeLog>
+  <ChangeLog>- Initial Release</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
 </Publish>
