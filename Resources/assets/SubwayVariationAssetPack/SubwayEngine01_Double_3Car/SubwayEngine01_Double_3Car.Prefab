@@ -6,7 +6,7 @@
     "components": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
-        "$rlength": 6,
+        "$rlength": 5,
         "$rcontent": [
             {
                 "$id": 2,
@@ -151,36 +151,17 @@
             },
             {
                 "$id": 10,
-                "$type": "12|Game.Prefabs.ObsoleteIdentifiers, Game",
-                "name": "ObsoleteIdentifiers",
-                "active": true,
-                "m_PrefabIdentifiers": {
-                    "$id": 11,
-                    "$type": "13|Game.Prefabs.PrefabIdentifierInfo[], Game",
-                    "$rlength": 1,
-                    "$rcontent": [
-                        {
-                            "$id": 12,
-                            "$type": "14|Game.Prefabs.PrefabIdentifierInfo, Game",
-                            "m_Name": "Subway Front",
-                            "m_Type": "MultipleUnitTrainFrontPrefab"
-                        }
-                    ]
-                }
-            },
-            {
-                "$id": 13,
-                "$type": "15|Game.Prefabs.ActivityLocation, Game",
+                "$type": "12|Game.Prefabs.ActivityLocation, Game",
                 "name": "ActivityLocation",
                 "active": true,
                 "m_Locations": {
-                    "$id": 14,
-                    "$type": "16|Game.Prefabs.ActivityLocation+LocationInfo[], Game",
+                    "$id": 11,
+                    "$type": "13|Game.Prefabs.ActivityLocation+LocationInfo[], Game",
                     "$rlength": 6,
                     "$rcontent": [
                         {
-                            "$id": 15,
-                            "$type": "17|Game.Prefabs.ActivityLocation+LocationInfo, Game",
+                            "$id": 12,
+                            "$type": "14|Game.Prefabs.ActivityLocation+LocationInfo, Game",
                             "m_Activity": $fstrref:"UnityGUID:55cd31323498ccf4ca4831d41291c0f4",
                             "m_Position": {
                                 "$type": 8,
@@ -200,8 +181,8 @@
                             }
                         },
                         {
-                            "$id": 16,
-                            "$type": 17,
+                            "$id": 13,
+                            "$type": 14,
                             "m_Activity": $fstrref:"UnityGUID:55cd31323498ccf4ca4831d41291c0f4",
                             "m_Position": {
                                 "$type": 8,
@@ -221,8 +202,8 @@
                             }
                         },
                         {
-                            "$id": 17,
-                            "$type": 17,
+                            "$id": 14,
+                            "$type": 14,
                             "m_Activity": $fstrref:"UnityGUID:55cd31323498ccf4ca4831d41291c0f4",
                             "m_Position": {
                                 "$type": 8,
@@ -242,8 +223,8 @@
                             }
                         },
                         {
-                            "$id": 18,
-                            "$type": 17,
+                            "$id": 15,
+                            "$type": 14,
                             "m_Activity": $fstrref:"UnityGUID:55cd31323498ccf4ca4831d41291c0f4",
                             "m_Position": {
                                 "$type": 8,
@@ -263,8 +244,8 @@
                             }
                         },
                         {
-                            "$id": 19,
-                            "$type": 17,
+                            "$id": 16,
+                            "$type": 14,
                             "m_Activity": $fstrref:"UnityGUID:55cd31323498ccf4ca4831d41291c0f4",
                             "m_Position": {
                                 "$type": 8,
@@ -284,8 +265,8 @@
                             }
                         },
                         {
-                            "$id": 20,
-                            "$type": 17,
+                            "$id": 17,
+                            "$type": 14,
                             "m_Activity": $fstrref:"UnityGUID:55cd31323498ccf4ca4831d41291c0f4",
                             "m_Position": {
                                 "$type": 8,
@@ -311,8 +292,8 @@
                 "m_RequireAuthorization": false
             },
             {
-                "$id": 21,
-                "$type": "18|Game.Prefabs.UIObject, Game",
+                "$id": 18,
+                "$type": "15|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
                 "m_Group": null,
@@ -324,13 +305,13 @@
         ]
     },
     "m_Meshes": {
-        "$id": 22,
-        "$type": "19|Game.Prefabs.ObjectMeshInfo[], Game",
+        "$id": 19,
+        "$type": "16|Game.Prefabs.ObjectMeshInfo[], Game",
         "$rlength": 1,
         "$rcontent": [
             {
-                "$id": 23,
-                "$type": "20|Game.Prefabs.ObjectMeshInfo, Game",
+                "$id": 20,
+                "$type": "17|Game.Prefabs.ObjectMeshInfo, Game",
                 "m_Mesh": $fstrref:"UnityGUID:227e6025799708d4e94d26143e57ed46",
                 "m_Position": {
                     "$type": 8,
@@ -376,13 +357,13 @@
     "m_MinMultipleUnitCount": 2,
     "m_MaxMultipleUnitCount": 2,
     "m_Carriages": {
-        "$id": 24,
-        "$type": "21|Game.Prefabs.MultipleUnitTrainCarriageInfo[], Game",
+        "$id": 21,
+        "$type": "18|Game.Prefabs.MultipleUnitTrainCarriageInfo[], Game",
         "$rlength": 1,
         "$rcontent": [
             {
-                "$id": 25,
-                "$type": "22|Game.Prefabs.MultipleUnitTrainCarriageInfo, Game",
+                "$id": 22,
+                "$type": "19|Game.Prefabs.MultipleUnitTrainCarriageInfo, Game",
                 "m_Carriage": $fstrref:"UnityGUID:5f209da67994f3548ae59f14ea602829",
                 "m_Direction": 2,
                 "m_MinCount": 3,
